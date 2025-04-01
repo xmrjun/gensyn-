@@ -40,6 +40,7 @@ sudo chmod +x /usr/local/bin/cloudflared
 
 
 第6步启动gensyn
+cd rl-swarm
 
 ./run_rl_swarm.sh
 
