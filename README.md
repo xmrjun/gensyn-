@@ -17,6 +17,8 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl scr
 
 git clone https://github.com/zunxbt/rl-swarm.git && cd rl-swarm
 
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+
 第4步打开使用screen后台
 
 
